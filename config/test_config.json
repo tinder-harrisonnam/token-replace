@@ -1,0 +1,10 @@
+{"targets": [
+  "tests/test_data/test_file.xml"
+],
+"file_extensions": [".xml"],
+"mappings": {
+  "#F8F8F8": "@color/ds_color_gray_05",
+  "#4A4A4A": "@color/ds_color_dark"
+  },
+"csv_file_path": "config/example_mappings.csv"
+}
