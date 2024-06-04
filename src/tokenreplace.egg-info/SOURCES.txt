@@ -1,0 +1,7 @@
+README.md
+setup.py
+src/tokenreplace.egg-info/PKG-INFO
+src/tokenreplace.egg-info/SOURCES.txt
+src/tokenreplace.egg-info/dependency_links.txt
+src/tokenreplace.egg-info/entry_points.txt
+src/tokenreplace.egg-info/top_level.txt
