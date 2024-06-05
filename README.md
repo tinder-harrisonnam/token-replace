@@ -22,7 +22,7 @@ The Token Replace Tool is a Python script designed to replace specified values i
 1. Clone the repository:
 
     ```sh
-    git clone <repository-url>
+    git clone git@github.com:tinder-harrisonnam/token-replace.git
     cd token-replace-tool
     ```
 
