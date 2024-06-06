@@ -65,5 +65,5 @@ The configuration file should be in JSON format. Below is an example configurati
 #### Configuration paramters
 - `targets`: List of files or directories to process
 - `file_extensions`: List of file extensions to process
-- `mappings`: Dictinoary of values to replace with their corresponding design token
+- `mappings`: Dictionary of values to replace with their corresponding design token
 - `csv_file_path`: Path to a CSV file containing additional mappings. If this is specified, the mappings from the CSV file will take precedence over those specified directly in the configuration file.
