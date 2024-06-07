@@ -40,7 +40,7 @@ You can run the tool using the defined entry point:
   tokenreplace config/test_config.json
   ```
 
-This command processes the fiels specified in the `test_config.json` configuration file.
+This command processes the files/directories specified in the `test_config.json` configuration file.
 
 ### Configuration
 The configuration file should be in JSON format. Below is an example configuration file(`config/test_config.json`):
